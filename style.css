@@ -121,6 +121,7 @@ li.checked div {
         background-color: #e3e3e3;
         border-radius: 20px;
         margin-bottom: 10px;
+        width: 80%;
     }
 
     #btn {
